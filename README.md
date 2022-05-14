@@ -9,6 +9,10 @@
 
 </div>
 
+# Note
+
+**Lolley is only available in Windows**
+
 # Installation and running
 First, clone the repository and extract `compressed.zip` after that run `test.js` to run the program.
 
