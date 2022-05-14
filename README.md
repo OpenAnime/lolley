@@ -5,7 +5,7 @@
   <a href="https://www.codefactor.io/repository/github/constani/lolley"><img alt="CodeFactor Grade" src="https://www.codefactor.io/repository/github/constani/lolley/badge"></a>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Constani/lolley">
 
-**A program to communicate with Lolley browser**
+**A program to communicate with Lolley browser using JavaScript**
 
 </div>
 
